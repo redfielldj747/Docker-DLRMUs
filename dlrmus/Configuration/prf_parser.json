@@ -1,0 +1,771 @@
+{
+  "Information": [
+    {
+      "key": "M",
+      "name": "TopModelNumber",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "S",
+      "name": "SerialNumber",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "m",
+      "name": "MainBoardNumber",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "A",
+      "name": "ApplicationROMID",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "R",
+      "name": "ApplicationRevisionLevel",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "C",
+      "name": "ConfigurationFileID",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "B",
+      "name": "BootloaderROMID",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "H",
+      "name": "HardwareID",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "h",
+      "name": "ConnectedDevices",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "s",
+      "name": "HandheldSerialNumber",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "c",
+      "name": "UIHardwareType",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "k",
+      "name": "UIHardwareDensity",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "U",
+      "name": "UniversalInterfaceApplicationROMID",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "u",
+      "name": "UniversalInterfaceBootloaderROMID",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "t",
+      "name": "FormatterVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "d",
+      "name": "DWMSDKVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "W",
+      "name": "InternalScaleInformation",
+      "value": null,
+      "mask": 0
+    },
+    {
+      "key": "D",
+      "name": "RemoteDisplayVersion",
+      "value": null,
+      "mask": 0
+    },
+    {
+      "key": "E",
+      "name": "SmartEASVersion",
+      "value": null,
+      "mask": 1
+    },
+    {
+      "key": "I",
+      "name": "Interface",
+      "value": "Unknown",
+      "complexValue": {
+        "05": "RS232",
+        "4": "IBM-4683 Port 17",
+        "5": "RS232-STD",
+        "8": "IBM-4683 Port 5B",
+        "10": "USB-COM-RS232-DL",
+        "12": "RS232-WN",
+        "1e": "USB-COM-SC",
+        "20": "RS232-SC",
+        "23": "IBM-4683 Port 9B",
+        "35": "USB Keyboard",
+        "40": "USB-MAG",
+        "43": "RS232-MAG",
+        "45": "OEM USB",
+        "47": "USB-COM",
+        "4D": "USB-Composite",
+        "77": "USB-HID"
+      },
+      "mask": 3
+    },
+    {
+      "key": "r",
+      "name": "RFScannerRadioVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "L",
+      "name": "SecondScannerVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "b",
+      "name": "SecondScannerBootloader",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "X",
+      "name": "SecondModelNumber",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "V",
+      "name": "VisionLibraryVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "v",
+      "name": "VirtualScanLineLibraryVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "F",
+      "name": "FPGAVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Q",
+      "name": "SDRAMCfgVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "P",
+      "name": "IPEAppVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "T",
+      "name": "TDRType",
+      "value": "Unknown",
+      "complexValue": {
+        "I1": "T7 IR TDR",
+        "I2": "T8.2 IR TDR",
+        "I3": "T9 IR TDR",
+        "I4": "T12 IR TDR",
+        "I": "Unknown TDR Status",
+        "N1": "7 Standard TDR",
+        "N2": "8.2 Standard TDR",
+        "N3": "9 Standard TDR",
+        "N4": "12 Standard TDR",
+        "N": "Unknown TDR Status",
+        "L0": "Legacy TDR (height unknown)",
+        "LO": "Legacy TDR (height unknown)",
+        "L": "Unknown TDR Status",
+        "U0": "TDR preset: undefined height",
+        "U": "Unknown TDR Status",
+        "??": "TDR present: not ready yet",
+        "?": "Unknown TDR Status"
+      },
+      "mask": 3
+    },
+    {
+      "key": "f",
+      "name": "TDRFPGAVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "l",
+      "name": "USBLoaderVersion",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "i",
+      "name": "InterfaceNumHandhelds",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Y",
+      "name": "SecondSerialNumber",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Z",
+      "name": "SecondSoftwareVersionNumber",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "N",
+      "name": "NumConnSatDevices",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "q",
+      "name": "SoftwareID",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "n",
+      "name": "SatelliteDeviceType",
+      "value": null,
+      "complexIdentifier": {
+        "n1" :  "Satellite1DeviceType",
+        "n2" :  "Satellite2DeviceType",
+        "n3" :  "Satellite3DeviceType"
+      },
+      "complexValue": {
+        "T": "TDR",
+        "O": "CCMH",
+        "o": "CCMV"
+      },
+      "mask": 3
+    },
+    {
+      "key": "p",
+      "name": "SatellitePCBSerial",
+      "value": null,
+      "complexIdentifier": {
+        "p1" :  "Satellite1PCBSerial",
+        "p2" :  "Satellite2PCBSerial",
+        "p3" :  "Satellite3PCBSerial"
+      },
+      "mask": 3
+    },
+    {
+      "key": "x",
+      "name": "SatelliteFocusedSerial",
+      "value": null,
+      "complexIdentifier": {
+        "x1" :  "Satellite1FocusedSerial",
+        "x2" :  "Satellite2FocusedSerial",
+        "x3" :  "Satellite3FocusedSerial"
+      },
+      "mask": 3
+    },
+    {
+      "key": "a",
+      "name": "SatelliteAssemblySerial",
+      "value": null,
+      "complexIdentifier": {
+        "a1" :  "Satellite1AssemblySerial",
+        "a2" :  "Satellite2AssemblySerial",
+        "a3" :  "Satellite3AssemblySerial"
+      },
+      "mask": 3
+    },
+    {
+      "key": "z",
+      "name": "SatelliteSoftwareVer",
+      "value": null,
+      "complexIdentifier": {
+        "z1" :  "Satellite1SoftwareVer",
+        "z2" :  "Satellite2SoftwareVer",
+        "z3" :  "Satellite3SoftwareVer"
+      },
+      "mask": 3
+    },
+    {
+      "key": "y",
+      "name": "TPUInfo",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Batt_DesCap",
+      "name": "Batt_DesCap",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Batt_Year",
+      "name": "Batt_Year",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Batt_Month",
+      "name": "Batt_Month",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Batt_SN",
+      "name": "Batt_SN",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Batt_Model",
+      "name": "Batt_Model",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "!Dev",
+      "name": "DeviceCategory",
+      "value": "",
+      "mask": 3
+    },
+    {
+      "key": "!Mfg",
+      "name": "ManufacturerName",
+      "value": "Datalogic S.r.l.",
+      "mask": 3
+    },
+    {
+      "key": "!Mod",
+      "name": "ModelName",
+      "value": "",
+      "mask": 3
+    },
+    {
+      "key": "!DevName",
+      "name": "PhysicalDeviceName",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "!FWRev",
+      "name": "FirmwareRevision",
+      "value": null,
+      "mask": 3
+    }
+  ],
+  "Health": [
+    {
+      "key": "m",
+      "name": "MotorHealth",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "h",
+      "name": "HorizontalLaserHealth",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "v",
+      "name": "VerticalLaserHealth",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "s",
+      "name": "ScaleHealth",
+      "value": null,
+      "mask": 0
+    },
+    {
+      "key": "d",
+      "name": "RemoteDisplayHealth",
+      "value": null,
+      "mask": 0
+    },
+    {
+      "key": "e",
+      "name": "EASSystemHealth",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "c",
+      "name": "CameraHealth",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "r",
+      "name": "RadioHealth",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "H",
+      "name": "USBHandheldConnected",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "D",
+      "name": "USBSerialDongleConnected",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "0",
+      "name": "IPE0Health",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "1",
+      "name": "IPE1Health",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "2",
+      "name": "IPE2Health",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "3",
+      "name": "IPE3Health",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "S",
+      "name": "ScaleSentryHealth",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "i",
+      "name": "ImagerHealth",
+      "value": null,
+      "complexIdentifier": {
+        "i1" :  "Imager1Health",
+        "i2" :  "Imager2Health",
+        "i3" :  "Imager3Health",
+        "i4" :  "Imager4Health"
+      },
+      "mask": 3
+    },
+    {
+      "key": "T",
+      "name": "TDRConnectionStatus",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "O",
+      "name": "CCMHConnectionStatus",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "o",
+      "name": "CCMVConnectionStatus",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Batt_RealT",
+      "name": "Batt_RealT",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Batt_RealV",
+      "name": "Batt_RealV",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Batt_RealC",
+      "name": "Batt_RealC",
+      "value": null,
+      "mask": 3
+    }
+
+  ],
+  "Statistics": [
+    {
+      "key": "P",
+      "name": "PowerOnHours",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "m",
+      "name": "MotorOnTime",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "l",
+      "name": "LaserOnTime",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "L",
+      "name": "GoodScanCount",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "C",
+      "name": "CustomData",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "e",
+      "name": "EASManualCount",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "E",
+      "name": "EASDeactivateCount",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "B",
+      "name": "NumberBatteryChargingCycles",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "T",
+      "name": "NumberTriggerPulls",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "K",
+      "name": "NumberKeyPresses",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "R",
+      "name": "TotalResets",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "r",
+      "name": "ErrorResets",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "V",
+      "name": "VerticalIPEForcedResets",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "H",
+      "name": "HorizontalIPEForcedResets",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "D",
+      "name": "Forced2DResets",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "Q",
+      "name": "TDRForcedResets",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "v",
+      "name": "VerticalIPEExcessiveResets",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "h",
+      "name": "HorizontalIPEExcessiveResets",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "d",
+      "name": "Excessive2DResets",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "q",
+      "name": "TDRExcessiveEesets",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "Z",
+      "name": "POSInitiatedZeroRequests",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "X",
+      "name": "EnforcedZeroEvents",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "S",
+      "name": "ScaleSentryEvents",
+      "value": null,
+      "type": 1,
+      "mask": 0
+    },
+    {
+      "key": "Y",
+      "name": "EASRuntimeFaults",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "I",
+      "name": "BaseIPEDisconnects",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "t",
+      "name": "TDRDisconnects",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "O",
+      "name": "CCMVDisconnects",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "o",
+      "name": "CCMHDisconnects",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "b",
+      "name": "BatteryHealth",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "s",
+      "name": "BatteryChargeStatus",
+      "value": null,
+      "type": 1,
+      "mask": 3
+    },
+    {
+      "key": "c",
+      "name": "ScaleCalibrationAttempts",
+      "value": null,
+      "type": 1,
+      "mask": 0
+    },
+    {
+      "key": "z",
+      "name": "ScaleZeroAttempts",
+      "value": null,
+      "mask": 0
+    },
+    {
+      "key": "Batt_SoC",
+      "name": "Batt_SoC",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Batt_SoH",
+      "name": "Batt_SoH",
+      "value": null,
+      "mask": 3
+    },
+    {
+      "key": "Crad_IsInserted",
+      "name": "Crad_IsInserted",
+      "value": null,
+      "mask": 3
+    }
+  ]
+}

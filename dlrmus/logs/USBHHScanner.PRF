@@ -1,0 +1,30 @@
+# 2025:00:14 04:11:24:249 DLRMUs, Version=1.0.22.4, Datalogic 2024
+# Raw data from device
+# Information Raw Data    : 01 02 41 36 31 30 31 36 35 39 30 33 03 02 52 30 30 30 34 03 02 43 4d 75 72 70 68 52 65 76 31 03 02 42 36 31 30 30 39 38 39 32 32 03 02 53 03 02 4d 03 02 6d 03 02 49 34 35 03 04 
+# Information String Data : A610165903R0004CMurphRev1B610098922SMmI45
+# Health Raw Data         : 01 02 63 4e 41 03 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+# Health String Data      : cNA
+# Statistics Hex Data     : 01 02 50 34 37 39 03 02 4c 35 34 34 03 02 43 03 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+# Statistics Raw Data     : P479L544C
+# Information
+ApplicationROMID = 610165903
+ApplicationRevisionLevel = 0004
+BootloaderROMID = 610098922
+ConfigurationFileID = MurphRev1
+DeviceCategory = Handheld Scanner
+FirmwareRevision = 610165903
+Interface = OEM USB
+MainBoardNumber = 
+ManufacturerName = Datalogic S.r.l.
+ModelName = 
+PhysicalDeviceName = USBHHScanner
+SerialNumber = 
+TopModelNumber = 
+# Health
+CameraHealth = NA
+# Statistics
+CustomData = 
+GoodScanCount = 544
+PowerOnHours = 479
+# 
+# End of data

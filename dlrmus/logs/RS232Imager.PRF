@@ -1,0 +1,30 @@
+# 2025:02:09 00:05:37:939 DLRMUs, Version=1.0.22.4, Datalogic 2024
+# Raw data from device
+# Information Raw Data    : 01 02 41 36 31 30 30 39 39 30 35 30 03 02 52 30 30 34 37 03 02 43 03 02 42 36 31 30 30 39 38 39 32 32 03 02 53 47 32 34 48 38 30 36 33 32 03 02 4d 47 44 34 35 32 30 2d 42 4b 2d 55 53 42 2d 43 44 39 31 03 02 6d 03 02 49 34 30 03 04 
+# Information String Data : A610099050R0047CB610098922SG24H80632MGD4520-BK-USB-CD91mI40
+# Health Raw Data         : 01 02 63 4e 41 03 04 
+# Health String Data      : cNA
+# Statistics Hex Data     : 01 02 50 32 32 34 03 02 4c 30 03 02 43 03 04 
+# Statistics Raw Data     : P224L0C
+# Information
+ApplicationROMID = 610099050
+ApplicationRevisionLevel = 0047
+BootloaderROMID = 610098922
+ConfigurationFileID = 
+DeviceCategory = Handheld Scanner
+FirmwareRevision = 610099050
+Interface = USB-MAG
+MainBoardNumber = 
+ManufacturerName = Datalogic S.r.l.
+ModelName = GD4500
+PhysicalDeviceName = RS232Imager
+SerialNumber = G24H80632
+TopModelNumber = GD4520-BK-USB-CD91
+# Health
+CameraHealth = NA
+# Statistics
+CustomData = 
+GoodScanCount = 0
+PowerOnHours = 224
+# 
+# End of data

@@ -1,0 +1,8 @@
+﻿
+
+2025:02:08 23:53:17:190 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+23:53:17:293 [ info ] Path: /dev/ttyACM0
+23:53:17:294 [ info ] Exiting with code 1 (Error: Failed to open endpoint. See the summary log /dlrmus/logs/dlslog.txt for details.)

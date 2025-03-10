@@ -1,0 +1,8 @@
+FROM ubuntu
+
+#needed for dlrmus operation
+RUN apt-get update && apt-get install -y libusb-1.0-0 usbutils
+
+
+ENTRYPOINT ["/dlrmus/./dlrmus", "-a", "RS232Imager", "-f", "/dlrmus/DR94_HH_DESK.S37"]
+

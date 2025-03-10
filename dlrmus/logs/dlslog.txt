@@ -1,0 +1,1135 @@
+﻿
+
+2025:02:08 21:33:49:783 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager 
+
+Traffic Log: /dlrmus/logs/dlslog8.txt
+DevicePath: /dev/ttyACM0
+21:33:49:896 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+vid:0000 pid:0000
+Exiting with code 0 (Success)
+
+
+2025:02:08 21:39:11:293 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog9.txt
+DevicePath: /dev/ttyACM0
+21:39:11:405 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+21:41:37:198 
+Finished downloading all records.
+
+21:41:37:198 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+21:42:50:231 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+
+
+
+2025:02:08 21:43:24:105 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog0.txt
+DevicePath: /dev/ttyACM0
+21:43:24:217 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+21:45:49:983 
+Finished downloading all records.
+
+21:45:49:983 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+21:47:02:995 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+
+
+
+2025:02:08 21:47:06:709 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager 
+
+Traffic Log: /dlrmus/logs/dlslog1.txt
+DevicePath: /dev/ttyACM0
+21:47:06:826 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+vid:0000 pid:0000
+Exiting with code 0 (Success)
+
+
+2025:02:08 21:50:39:202 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog2.txt
+DevicePath: /dev/ttyACM0
+21:50:39:314 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+21:53:05:035 
+Finished downloading all records.
+
+21:53:05:035 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+21:54:18:067 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+
+
+
+2025:02:08 21:54:21:820 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager 
+
+Traffic Log: /dlrmus/logs/dlslog3.txt
+DevicePath: /dev/ttyACM0
+21:54:21:935 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+vid:0000 pid:0000
+Exiting with code 0 (Success)
+
+
+2025:02:08 21:56:42:031 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog4.txt
+DevicePath: /dev/ttyACM0
+21:56:42:142 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+21:59:08:175 
+Finished downloading all records.
+
+21:59:08:175 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+22:00:21:204 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+
+
+
+2025:02:08 22:00:24:994 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager 
+
+Traffic Log: /dlrmus/logs/dlslog5.txt
+DevicePath: /dev/ttyACM0
+22:00:25:107 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+vid:0000 pid:0000
+Exiting with code 0 (Success)
+
+
+2025:02:08 22:04:36:198 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog6.txt
+DevicePath: /dev/ttyACM0
+22:04:36:309 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+22:07:02:113 
+Finished downloading all records.
+
+22:07:02:113 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+22:08:15:128 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+
+
+
+2025:02:08 22:08:18:907 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager 
+
+Traffic Log: /dlrmus/logs/dlslog7.txt
+DevicePath: /dev/ttyACM0
+22:08:19:021 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+vid:0000 pid:0000
+Exiting with code 0 (Success)
+
+
+2025:02:08 22:14:19:768 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog8.txt
+DevicePath: /dev/ttyACM0
+22:14:19:880 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+
+2025:02:08 22:15:17:011 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog9.txt
+DevicePath: /dev/ttyACM0
+22:15:17:121 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+22:15:25:514 
+Retries: 3 on record 10No ACK response: 21 on record 10
+
+22:15:25:514 
+Failed to update the device. See logs for details.
+It appears incorrect firmware was uploaded to this device.
+
+22:15:25:514 
+Sending hard reset command.
+
+Exiting with code 1 (Error: Failed to update the device. See logs for details.)
+
+
+2025:02:08 22:16:04:759 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog0.txt
+DevicePath: /dev/ttyACM0
+22:16:04:871 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+22:18:30:790 
+Finished downloading all records.
+
+22:18:30:790 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+22:19:43:827 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+
+
+
+2025:02:08 22:19:57:658 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager 
+
+Traffic Log: /dlrmus/logs/dlslog1.txt
+DevicePath: /dev/ttyACM0
+22:19:57:772 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+vid:0000 pid:0000
+Exiting with code 0 (Success)
+
+
+2025:02:08 22:22:10:314 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog2.txt
+DevicePath: /dev/ttyACM0
+22:22:10:425 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+22:24:36:069 
+Finished downloading all records.
+
+22:24:36:069 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+22:25:49:107 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+
+
+
+2025:02:08 22:26:02:926 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager 
+
+Traffic Log: /dlrmus/logs/dlslog3.txt
+DevicePath: /dev/ttyACM0
+22:26:03:040 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+vid:0000 pid:0000
+Exiting with code 0 (Success)
+
+
+2025:02:08 22:30:29:623 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog4.txt
+DevicePath: /dev/ttyACM0
+22:30:29:735 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+22:32:55:766 
+Finished downloading all records.
+
+22:32:55:766 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+22:34:08:787 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+
+
+
+2025:02:08 22:34:22:668 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager 
+
+Traffic Log: /dlrmus/logs/dlslog5.txt
+DevicePath: /dev/ttyACM0
+22:34:22:781 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:223
+# 
+# End of data
+vid:0000 pid:0000
+Exiting with code 0 (Success)
+
+
+2025:02:08 23:48:32:830 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog6.txt
+DevicePath: /dev/ttyACM0
+23:48:32:972 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:224
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+23:51:02:022 
+Finished downloading all records.
+
+23:51:02:022 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+23:52:15:060 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:224
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+
+
+
+2025:02:08 23:53:17:189 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog7.txt
+DevicePath: /dev/ttyACM0
+Exiting with code 1 (Error: Failed to open endpoint. See the summary log /dlrmus/logs/dlslog.txt for details.)
+The Information, Health and Statistics query may fail for many reasons.
+Some things to verify are:
+  1. Is the device is turned on?
+  2. Are the cables are properly connected?
+  3. Are you using the correct device profile?
+  4. Do the connection parameters you're using match the device configuration?
+  5. Does the port have the correct access permissions?
+  6. Does the port have to be set to 'raw' mode?
+
+
+2025:02:08 23:55:17:053 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog8.txt
+DevicePath: /dev/ttyACM0
+Exiting with code 1 (Error: Failed to open endpoint. See the summary log /dlrmus/logs/dlslog.txt for details.)
+The Information, Health and Statistics query may fail for many reasons.
+Some things to verify are:
+  1. Is the device is turned on?
+  2. Are the cables are properly connected?
+  3. Are you using the correct device profile?
+  4. Do the connection parameters you're using match the device configuration?
+  5. Does the port have the correct access permissions?
+  6. Does the port have to be set to 'raw' mode?
+
+
+2025:02:08 23:57:21:456 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog9.txt
+DevicePath: /dev/ttyACM0
+23:57:21:571 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:224
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+23:59:50:450 
+Finished downloading all records.
+
+23:59:50:450 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+00:01:03:476 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:224
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+
+
+
+2025:02:09 00:01:56:241 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager -f /dlrmus/DR94_HH_DESK.S37 
+
+Traffic Log: /dlrmus/logs/dlslog0.txt
+DevicePath: /dev/ttyACM0
+00:01:56:356 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:224
+# 
+# End of data
+SWID Enforcement - not active
+vid:0000 pid:0000
+
+00:04:24:912 
+Finished downloading all records.
+
+00:04:24:912 
+Sending hard reset command.
+
+DevicePath: /dev/ttyACM0
+00:05:37:939 
+# Information
+ApplicationROMID:610099050
+ApplicationRevisionLevel:0047
+BootloaderROMID:610098922
+ConfigurationFileID:
+DeviceCategory:Handheld Scanner
+FirmwareRevision:610099050
+Interface:USB-MAG
+MainBoardNumber:
+ManufacturerName:Datalogic S.r.l.
+ModelName:GD4500
+PhysicalDeviceName:RS232Imager
+SerialNumber:G24H80632
+TopModelNumber:GD4520-BK-USB-CD91
+# Health
+CameraHealth:NA
+# Statistics
+CustomData:
+GoodScanCount:0
+PowerOnHours:224
+# 
+# End of data
+Exiting with code 2 (Success)
+ApplicationRevisionLevel: 0047 ===> 0047
+ApplicationROMID: 610099050 ===> 610099050
+ConfigurationFileID: unknown ===> unknown
+

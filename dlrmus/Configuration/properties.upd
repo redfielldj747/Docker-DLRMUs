@@ -1,0 +1,359 @@
+{
+  "version": 2,
+
+  "MaxLogFiles": 10,
+  "SummaryMaxSize": 100,
+  "ConsoleInfo": false,
+  "ConsoleHealth": false,
+  "ConsoleStatistics": false,
+  "ihs_timeout": 5000,
+  "LegacyErrorCodes": true,
+  "ServicePortBufferSize": 200000,
+
+  "Profiles": {
+    "ServicePort": {
+      "Interface": "SERVICEPORT",
+      "Affixes": [ 83, 13 ],
+      "BaudRate": 9600,
+      "DataBits": 7,
+      "Parity": "Odd",
+      "StopBits": 1,
+      "UseVirtualPort": 1
+    },
+    "RS232Scanner": {
+      "Interface": "RS-232",
+      "WindowsPort": 1,
+      "LinuxPort": "/dev/ttyS0",
+      "BaudRate": 9600,
+      "DataBits": 8,
+      "Parity": "None",
+      "StopBits": 1
+    },
+    "QS6000": {
+      "Interface": "RS-232",
+      "WindowsPort": 1,
+      "LinuxPort": "/dev/ttyS0",
+      "BaudRate": 9600,
+      "DataBits": 8,
+      "Parity": "None",
+      "StopBits": 1
+    },
+    "QSLScanner": {
+      "Interface": "RS-232",
+      "WindowsPort": 1,
+      "LinuxPort": "/dev/ttyS0",
+      "BaudRate": 9600,
+      "DataBits": 8,
+      "Parity": "Odd",
+      "StopBits": 1
+    },
+    "RS232Imager": {
+      "Interface": "USB/COM",
+      "WindowsPort": 1,
+      "LinuxPort": "/dev/ttyACM0",
+      "UseVirtualPort": 1
+    },
+    "SCRS232Scanner": {
+      "Interface": "SC/RS-232",
+      "Affixes": [ 83, 13 ],
+      "WindowsPort": 1,
+      "LinuxPort": "/dev/ttyS0",
+      "BaudRate": 9600,
+      "DataBits": 7,
+      "Parity": "Odd",
+      "StopBits": 1
+    },
+    "SC-COM": {
+      "Interface": "SC-COM",
+      "Affixes": [ 83, 13 ],
+      "WindowsPort": 1,
+      "LinuxPort": "/dev/ttyACM0",
+      "BaudRate": 9600,
+      "DataBits": 7,
+      "Parity": "Odd",
+      "StopBits": 1,
+      "UseVirtualPort": 1
+    },
+    "MagellanSC": {
+      "Interface": "SC/RS-232",
+      "Affixes": [ 1, 9 ],
+      "WindowsPort": 1,
+      "LinuxPort": "/dev/ttyS0",
+      "BaudRate": 9600,
+      "DataBits": 7,
+      "Parity": "Odd",
+      "StopBits": 1
+    },
+    "HandScanner": {
+      "Interface": "USB-OEM",
+      "Usage": "4B00"
+    },
+    "USBHHScanner": {
+      "Interface": "USB-OEM",
+      "Usage": "4B00"
+    },
+    "TableScanner": {
+      "Interface": "USB-OEM",
+      "Usage": "4A00"
+    },
+    "USBScanner": {
+      "Interface": "USB-OEM",
+      "Usage": "4A00"
+    },
+    "Bologna-USB-HID": {
+      "Interface": "USB-OEM",
+      "Usage": "4A00"
+    }
+  },
+
+  "Models": {
+    "2200 VS": {
+      "Patterns": [
+        "M22"
+      ]
+    },
+    "2300 HS": {
+      "Patterns": [
+        "M23"
+      ]
+    },
+    "8200 SO": {
+      "Patterns": [
+        "821"
+      ]
+    },
+    "8200 SS": {
+      "Patterns": [
+        "822"
+      ]
+    },
+    "8300 SO": {
+      "Patterns": [
+        "831"
+      ]
+    },
+    "8300 SS": {
+      "Patterns": [
+        "832"
+      ]
+    },
+    "8400 SO": {
+      "Patterns": [
+        "841"
+      ]
+    },
+    "8400 SS": {
+      "Patterns": [
+        "842"
+      ]
+    },
+    "8500 S0": {
+      "Patterns": [
+        "851"
+      ]
+    },
+    "8500 SS": {
+      "Patterns": [
+        "852"
+      ]
+    },
+    "8500XT SO": {
+      "Patterns": [
+        "859"
+      ]
+    },
+    "8500XT SS": {
+      "Patterns": [
+        "858",
+        "855"
+      ]
+    },
+    "8500XTS SO": {
+      "Patterns": [
+        "857"
+      ]
+    },
+    "8500XTS SS": {
+      "Patterns": [
+        "868",
+        "865"
+      ]
+    },
+    "9500 SO": {
+      "Patterns": [
+        "951",
+        "955"
+      ]
+    },
+    "9500 SS": {
+      "Patterns": [
+        "952",
+        "953",
+        "954"
+      ]
+    },
+    "900i": {
+      "Patterns": [
+        "MG090"
+      ]
+    },
+    "1100i": {
+      "Patterns": [
+        "11",
+        "MG11"
+      ]
+    },
+    "1500i": {
+      "Patterns": [
+        "MG150",
+        "150"
+      ]
+    },
+    "3200 VS": {
+      "Patterns": [
+        "32"
+      ]
+    },
+    "3300 HS": {
+      "Patterns": [
+        "33"
+      ]
+    },
+    "3410 VS": {
+      "Patterns": [
+        "M341",
+        "M342"
+      ]
+    },
+    "3450 VS": {
+      "Patterns": [
+        "M345",
+        "M346",
+        "M347"
+      ]
+    },
+    "3510 HS": {
+      "Patterns": [
+        "M351"
+      ]
+    },
+    "3550 HS": {
+      "Patterns": [
+        "M355"
+      ]
+    },
+    "9300i SO": {
+      "Patterns": [
+        "931"
+      ]
+    },
+    "9300i SS": {
+      "Patterns": [
+        "932",
+        "936"
+      ]
+    },
+    "9400i SO": {
+      "Patterns": [
+        "941"
+      ]
+    },
+    "9400i SS": {
+      "Patterns": [
+        "942",
+        "946"
+      ]
+    },
+    "9550i SO": {
+      "Patterns": [
+        "957"
+      ]
+    },
+    "9550i SS": {
+      "Patterns": [
+        "950",
+        "956"
+      ]
+    },
+    "9600i SO": {
+      "Patterns": [
+        "961"
+      ]
+    },
+    "9600i SS": {
+      "Patterns": [
+        "962"
+      ]
+    },
+    "9800i SO": {
+      "Patterns": [
+        "981"
+      ]
+    },
+    "9800i SS": {
+      "Patterns": [
+        "982",
+        "984"
+      ]
+    },
+    "9900i SS": {
+      "Patterns": [
+        "991"
+      ]
+    },
+    "9900i SO": {
+      "Patterns": [
+        "992"
+      ]
+    },
+    "GD4500": {
+      "Patterns": [
+        "123"
+      ]
+    },
+    "GBT4500": {
+      "Patterns": [
+        "GBT45"
+      ]
+    },
+    "GD4400": {
+      "Patterns": [
+        "G40"
+      ]
+    },
+    "GFS4470": {
+      "Patterns": [
+        "GFS4470"
+      ]
+    },
+    "GFS4490": {
+      "Patterns": [
+        "GFS4490"
+      ]
+    },
+    "QD2430": {
+      "Patterns": [
+        "QD2430"
+      ],
+      "lrdms": 4
+    },
+    "QW2400": {
+      "Patterns": [
+        "QW2400"
+      ],
+      "lrdms": 4
+    },
+    "QD2590": {
+      "Patterns": [
+        "QD2590"
+      ],
+      "lrdms": 4
+    },
+    "QW2500": {
+      "Patterns": [
+        "QW2500"
+      ],
+      "lrdms": 4
+    }
+  }
+}

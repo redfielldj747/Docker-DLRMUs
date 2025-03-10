@@ -1,0 +1,19 @@
+﻿
+
+2025:02:08 22:26:02:927 DLRMUs, Version=1.0.22.4, Datalogic 2024
+Operating System: Ubuntu 24.04.1 LTS
+/dlrmus/./dlrmus -a RS232Imager 
+
+22:26:03:031 [ info ] Path: /dev/ttyACM0
+22:26:03:032 [ info ] Requesting Information
+22:26:03:032 Wrote(1): 69
+22:26:03:033 Read(32): 01 02 41 36 31 30 30 39 39 30 35 30 03 02 52 30 30 34 37 03 02 43 03 02 42 36 31 30 30 39 38 39
+22:26:03:034 Read(32): 32 32 03 02 53 47 32 34 48 38 30 36 33 32 03 02 4D 47 44 34 35 32 30 2D 42 4B 2D 55 53 42 2D 43
+22:26:03:034 Read(13): 44 39 31 03 02 6D 03 02 49 34 30 03 04
+22:26:03:035 [ info ] Requesting Health
+22:26:03:035 Wrote(1): 68
+22:26:03:036 Read(7): 01 02 63 4E 41 03 04
+22:26:03:037 [ info ] Requesting Statistics
+22:26:03:037 Wrote(1): 73
+22:26:03:039 Read(15): 01 02 50 32 32 33 03 02 4C 30 03 02 43 03 04
+22:26:06:045 [ info ] warning: No firmware revision was provided.
